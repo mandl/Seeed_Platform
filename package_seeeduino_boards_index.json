@@ -516,9 +516,16 @@
               "size": "16374486"
             },
             {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "http://.bz2",
+              "archiveFileName": ".bz2",
+              "checksum": "SHA-256:7d637d2d7a0c6bacc22065848a201db2fff124268e4a56868260d0f472b4bbb7",
+              "size": "17642623"
+            },
+            {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "mediatek_linkit_sdk_tool_osx-1.1.21.tar.gz",
-              "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_tool_osx-1.1.21.tar.gz",
+              "archiveFileName": ".gz",
+              "url": "http://.gz",
               "checksum": "SHA-256:5de591b1d4143ddcc9e4e98d2fca2905a4ec0666bbb46e2aa089d9234f078738",
               "size": "16411173"
             }
