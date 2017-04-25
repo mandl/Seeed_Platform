@@ -599,7 +599,7 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "linkit_sdk_tool_linux-1.1.23.tar.gz",
-              "url": "ttps://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.23.tar.gz",
+              "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.23.tar.gz",
               "checksum": "SHA-256:ce90c8ff6adad56bfbb599202a9e2833d5526809583cad5453f32069db46ff78",
               "size": "2937"
             }
@@ -626,7 +626,7 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "linkit_sdk_tool_linux-1.1.23.tar.gz",
-              "url": "ttps://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.23.tar.gz",
+              "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.23.tar.gz",
               "checksum": "SHA-256:ce90c8ff6adad56bfbb599202a9e2833d5526809583cad5453f32069db46ff78",
               "size": "2937"
             }
