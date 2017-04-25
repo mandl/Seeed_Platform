@@ -44,7 +44,7 @@ Click on **Toos > Board > Board Manager**.
 Click  **Install** button appear, click on it to finish the step, this process takes about 5 minutes to half an hour, which depend on the speed of your network. 
 
 
-![](hhttps://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/install_rephone.png)
+![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/install_rephone.png)
 
 ## Step 4. Select a board
 
