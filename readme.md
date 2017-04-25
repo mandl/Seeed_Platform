@@ -52,6 +52,6 @@ After Step 3 was successful, a board named Seeeduino Stalker V3 will show up at 
 
 Click on **Tools > Board**, *Seeeduino Stalker V3* is available now. 
 
-![](https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/img/stalker_board.png)
+![](https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/img/install_rephone.png)
 
 
