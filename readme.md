@@ -40,18 +40,20 @@ Click on **Toos > Board > Board Manager**.
 
 ![](https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/img/board_manager.png)
 
-You will get many board that named with Seeed xxxx, let's take Seeeduino Stalker V3 as example.
 
-Click Seeeduino Stalker V3 then an **Install** button appear, click on it to finish the step, this process takes about 5 minutes to half an hour, which depend on the speed of your network. 
+Click  **Install** button appear, click on it to finish the step, this process takes about 5 minutes to half an hour, which depend on the speed of your network. 
 
-![](https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/img/add_board.png)
+![](https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/img/install_rephone.png)
 
 ## Step 4. Select a board
 
 After Step 3 was successful, a board named Seeeduino Stalker V3 will show up at the boards list. 
 
-Click on **Tools > Board**, *Seeeduino Stalker V3* is available now. 
+Click on **Tools > Board**, *Rephone core 2G MT2502* is available now. 
 
 ![](https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/img/install_rephone.png)
+
+
+
 
 
