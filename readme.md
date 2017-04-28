@@ -17,6 +17,28 @@ Thanks to the new features of Arduino IDE, it's easy to add those board to your 
 
 There're few step to be followed. 
 
+## Step 0. Install Python3
+
+You need Python   https://www.python.org/ 
+
+and 
+
+pySerial  https://pythonhosted.org/pyserial/pyserial.html
+
+Add your user to dailout group.
+
+	sudo adduser $USER dialout
+
+
+Install  udev rule under **/etc/udev/rules.d/** called **71-rephone.rules**.
+The magic job is here setting ID_MM_DEVICE_IGNORE environment value to inform ModemManager to skip device.
+
+
+	ATTRS{idVendor}=="0e8d" ATTRS{idProduct}=="0003", ENV{ID_MM_DEVICE_IGNORE}="1"
+	ATTRS{idVendor}=="0e8d" ATTRS{idProduct}=="0023", ENV{ID_MM_DEVICE_IGNORE}="1"
+
+
+
 ## Step 1. Download the latest Arduino IDE
 
 You need a Arduino IDE that after version 1.6.4, please download one if there's no Arduino IDE in your computer.
