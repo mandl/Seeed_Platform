@@ -282,10 +282,10 @@
           "help": {
             "online": "http://www.seeedstudio.com/forum/viewforum.php?f=71"
           },
-          "url": "https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
+          "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
           "archiveFileName": "RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:2efd5b9abd4ed64abcfc696ce6fa40924298aa0209fa67b1bff68bb9dadf9ecc",
-          "size": "249744",
+          "checksum": "SHA-256:34ca3beaed5b716fec58800f7a869ae32c5acf7f153e966832d0ee7251c52559",
+          "size": "273295",
           "boards": [
             {"name": "Rephone core 2G MT2502"}
           ],

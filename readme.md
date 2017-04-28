@@ -11,7 +11,7 @@ Seeed had designed so many boards that work with Arduino IDE, include,
 * Seeeduino GPRS
 * Seeeduino Ethernet
 * LinkIt ONE
-* RePhone Series
+* **RePhone Series**
 
 Thanks to the new features of Arduino IDE, it's easy to add those board to your Arduino IDE now.
 
@@ -70,7 +70,7 @@ Click  **Install** button appear, click on it to finish the step, this process t
 
 ## Step 4. Select a board
 
-After Step 3 was successful, a board named SRephone core 2G MT2502 will show up at the boards list. 
+After Step 3 was successful, a board named Rephone core 2G MT2502 will show up at the boards list. 
 
 Click on **Tools > Board**, *Rephone core 2G MT2502* is available now. 
 
