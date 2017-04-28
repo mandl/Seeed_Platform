@@ -68,7 +68,18 @@ Click  **Install** button appear, click on it to finish the step, this process t
 
 ![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/install_rephone.png)
 
-## Step 4. Select a board
+
+
+## Step 4. Flash firmware. 
+
+Open terminal
+
+	cd ./.arduino15/packages/Seeeduino/tools/linkit_tools/1.1.21
+	./firmwareUploader.py 
+
+Switch off Rephone and connect to USB.
+
+## Step 5. Select a board
 
 After Step 3 was successful, a board named Rephone core 2G MT2502 will show up at the boards list. 
 
@@ -77,14 +88,14 @@ Click on **Tools > Board**, *Rephone core 2G MT2502* is available now.
 ![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/boards.png)
 
 
-## Set 5. Select port
+## Set 6. Select port
 
-Select the port und upload your sketch.
+Select the port **/dev/ttyACM0** und upload your sketch.
 
 ![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/port.png)
 
 
-Open the serial monitor
+Open the serial monitor.
 
 ![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/SerialMon.png)
 
