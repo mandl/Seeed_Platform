@@ -77,6 +77,16 @@ Click on **Tools > Board**, *Rephone core 2G MT2502* is available now.
 ![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/boards.png)
 
 
+## Set 5. Select port
+
+Select the port und upload your sketch.
+
+![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/port.png)
+
+
+Open the serial monitor
+
+![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/SerialMon.png)
 
 
 
