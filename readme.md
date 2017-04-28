@@ -41,7 +41,7 @@ The magic job is here setting ID_MM_DEVICE_IGNORE environment value to inform Mo
 
 ## Step 1. Download the latest Arduino IDE
 
-You need a Arduino IDE that after version 1.6.4, please download one if there's no Arduino IDE in your computer.
+You need a Arduino IDE that version 1.8.2, please download one if there's no Arduino IDE in your computer.
 
 [![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino_Stalker_V3_1/master/images/Download_IDE.png)](https://www.arduino.cc/en/Main/Software)
 
@@ -70,11 +70,13 @@ Click  **Install** button appear, click on it to finish the step, this process t
 
 ## Step 4. Select a board
 
-After Step 3 was successful, a board named Seeeduino Stalker V3 will show up at the boards list. 
+After Step 3 was successful, a board named SRephone core 2G MT2502 will show up at the boards list. 
 
 Click on **Tools > Board**, *Rephone core 2G MT2502* is available now. 
 
-![](https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/img/install_rephone.png)
+![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/boards.png)
+
+
 
 
 
