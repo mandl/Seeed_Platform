@@ -284,8 +284,8 @@
           },
           "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
           "archiveFileName": "RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:34ca3beaed5b716fec58800f7a869ae32c5acf7f153e966832d0ee7251c52559",
-          "size": "273295",
+          "checksum": "SHA-256:f9cb6db6eb6dd1316fd9e301de1103b9bdeb0ead4c5ae5a19b8b0dc3a06b4015",
+          "size": "273728",
           "boards": [
             {"name": "Rephone core 2G MT2502"}
           ],
