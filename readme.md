@@ -92,6 +92,10 @@ Switch off Rephone and connect to USB.
 
 ![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/Firmware2.png)
 
+Wait for *Update done*
+
+![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/Firmware3.png)
+
 
 ## Step 5. Select a board
 
