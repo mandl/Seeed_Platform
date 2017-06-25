@@ -284,8 +284,8 @@
           },
           "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
           "archiveFileName": "RePhone_core_2G_MT2502_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:f9cb6db6eb6dd1316fd9e301de1103b9bdeb0ead4c5ae5a19b8b0dc3a06b4015",
-          "size": "273728",
+          "checksum": "SHA-256:ab9f33a2382cea1358ffee387d5bf634d8aac0132d3e39789f8e86ec1a78fe7a",
+          "size": "273667",
           "boards": [
             {"name": "Rephone core 2G MT2502"}
           ],
@@ -598,10 +598,10 @@
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "linkit_sdk_tool_linux-1.1.21.tar.gz",
-              "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.21.tar.gz",
-              "checksum": "SHA-256:c31e529735b7eee1ac589ce70ba135e31d41ad7d4d51cdf13ce999ace2dbfb96",
-              "size": "4436958"
+              "archiveFileName": "linkit_sdk_tool_linux-1.1.21.tar.bz2",
+              "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.21.tar.bz2",
+              "checksum": "SHA-256:211a4ed4da2ad47ddc55daaccaa6778b3b65cba98d5f7732a3f2921516e0d9a7",
+              "size": "4524111"
             }
           ]
         },
@@ -625,10 +625,10 @@
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "linkit_sdk_tool_linux-1.1.23.tar.gz",
-              "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.23.tar.gz",
-              "checksum": "SHA-256:c31e529735b7eee1ac589ce70ba135e31d41ad7d4d51cdf13ce999ace2dbfb96",
-              "size": "4436958"
+              "archiveFileName": "linkit_sdk_tool_linux-1.1.23.tar.bz2",
+              "url": "https://raw.githubusercontent.com/mandl/Seeed_Platform/master/linkit_sdk_tool_linux-1.1.23.tar.bz2",
+              "checksum": "SHA-256:211a4ed4da2ad47ddc55daaccaa6778b3b65cba98d5f7732a3f2921516e0d9a7",
+              "size": "4524111"
             }
           ]
         }

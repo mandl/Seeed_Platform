@@ -41,7 +41,7 @@ The magic job is here setting ID_MM_DEVICE_IGNORE environment value to inform Mo
 
 ## Step 1. Download the latest Arduino IDE
 
-You need a Arduino IDE that version 1.8.2, please download one if there's no Arduino IDE in your computer.
+You need a Arduino IDE that version 1.8.3, please download one if there's no Arduino IDE in your computer.
 
 [![](https://raw.githubusercontent.com/SeeedDocument/Seeeduino_Stalker_V3_1/master/images/Download_IDE.png)](https://www.arduino.cc/en/Main/Software)
 
@@ -72,12 +72,26 @@ Click  **Install** button appear, click on it to finish the step, this process t
 
 ## Step 4. Flash firmware. 
 
-Open terminal
+### From terminal
 
 	cd ./.arduino15/packages/Seeeduino/tools/linkit_tools/1.1.21
 	./firmwareUploader.py 
 
 Switch off Rephone and connect to USB.
+
+### Or using the IDE
+
+
+Select the *Rephone Firmware Updater*
+
+![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/Firmware1.png)
+
+
+Select *Burn Bootloader*
+Switch off Rephone and connect to USB.
+
+![](https://raw.githubusercontent.com/mandl/Seeed_Platform/master/img/Firmware2.png)
+
 
 ## Step 5. Select a board
 
